@@ -1,0 +1,25 @@
+class Solution {
+    public char getMaxOccuringChar(String s) {
+        int[] freq = new int[26];
+        
+        // Count frequency of each character
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            freq[ch - 'a']++;
+        }
+        
+        int maxFreq = 0;
+        int maxIndex = 0;
+        
+        // Find character with maximum frequency
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > maxFreq) {
+                maxFreq = freq[i];
+                maxIndex = i;
+            }
+        }
+        
+        // Convert index back to character
+        return (char) (maxIndex + 'a');
+    }
+}
