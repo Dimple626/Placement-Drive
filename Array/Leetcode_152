@@ -1,0 +1,27 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int maxproduct = nums[0];  // Initialize maxproduct to the first element
+        int currentmax = nums[0];  // Initialize currentmax to the first element
+        int currentmin = nums[0];  // Initialize currentmin to the first element
+        
+        for (int i = 1; i < nums.length; i++) {
+            int num = nums[i];
+            
+            // If the number is negative, swap currentmax and currentmin
+            if (num < 0) {
+                int temp = currentmax;
+                currentmax = currentmin;
+                currentmin = temp;
+            }
+            
+            // Update currentmax and currentmin
+            currentmax = Math.max(num, currentmax * num);
+            currentmin = Math.min(num, currentmin * num);
+            
+            // Update maxproduct with the highest product seen so far
+            maxproduct = Math.max(maxproduct, currentmax);
+        }
+        
+        return maxproduct;
+    }
+}
