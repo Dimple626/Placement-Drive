@@ -1,0 +1,13 @@
+class Solution {
+    public int kthSmallest(int[] nums, int k) {
+        // Code here
+         PriorityQueue<Integer> maxheap=new PriorityQueue<>(Collections.reverseOrder());
+        for(int num:nums){
+            maxheap.offer(num);
+            if(maxheap.size()>k){
+                maxheap.poll();
+            }
+        }
+    return maxheap.peek();
+    }
+}
