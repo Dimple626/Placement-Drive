@@ -1,0 +1,30 @@
+class Solution {
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> comb = new ArrayList<>();
+        Arrays.sort(candidates); // ✅ Sort to handle duplicates
+        generateComb(0, candidates, new ArrayList<>(), comb, target);
+        return comb;
+    }
+
+    void generateComb(int start, int[] nums, List<Integer> current, List<List<Integer>> comb, int target) {
+        if (target == 0) {
+            comb.add(new ArrayList<>(current));
+            return; // ✅ Don’t continue after finding valid combo
+        }
+
+        for (int i = start; i < nums.length; i++) {
+            // ✅ Skip duplicates at the same recursive level
+            if (i > start && nums[i] == nums[i - 1]) continue;
+
+            if (nums[i] > target) break; // ✅ Optimization: early stop
+
+            current.add(nums[i]);
+            generateComb(i + 1, nums, current, comb, target - nums[i]);
+            current.remove(current.size() - 1); // Backtrack
+        }
+    }
+}
+
+
+
+    
