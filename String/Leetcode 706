@@ -1,0 +1,53 @@
+class MyHashMap {
+    private static final int SIZE=1009;
+    private List<Pair>[] map;
+    public MyHashMap() {
+        map=new List[SIZE];
+        for(int i=0;i<SIZE;i++){
+            map[i]=new ArrayList<>();
+        }
+    }
+    private int hash(int key){
+        return key%SIZE;
+    }
+    
+    public void put(int key, int val) {
+        int index=hash(key);
+        for(Pair p:map[index]){
+            if(p.key==key){
+                p.val=val;
+                return;
+            }
+        }
+        map[index].add(new Pair(key,val));
+    }
+    
+    public int get(int key) {
+        int index=hash(key);
+        for(Pair p:map[index]){
+            if(p.key==key) return p.val;
+        }
+        return -1;
+    }
+    
+    public void remove(int key) {
+        int index=hash(key);
+        map[index].removeIf(p->p.key==key);
+    }
+    private static class Pair{
+        int val;
+        int key;
+        Pair(int key,int val){
+            this.key=key;
+            this.val=val;
+        }
+    }
+}
+
+/**
+ * Your MyHashMap object will be instantiated and called as such:
+ * MyHashMap obj = new MyHashMap();
+ * obj.put(key,value);
+ * int param_2 = obj.get(key);
+ * obj.remove(key);
+ */
