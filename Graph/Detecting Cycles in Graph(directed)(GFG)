@@ -1,0 +1,38 @@
+class Solution {
+    public boolean isCyclic(int v, int[][] edges) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < v; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        // make the graph directed
+        for (int[] edge : edges) {
+            adj.get(edge[0]).add(edge[1]);
+        }
+
+        int[] vis = new int[v];
+
+        for (int i = 0; i < v; i++) {
+            if (vis[i] == 0) {
+                if (dfs(i, adj, vis)) return true;
+            }
+        }
+        return false;
+    }
+
+    private boolean dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis) {
+        vis[node] = 1; // visiting
+
+        for (int nei : adj.get(node)) {
+            if (vis[nei] == 0) {
+                if (dfs(nei, adj, vis)) return true;
+            } else if (vis[nei] == 1) {
+                // back edge found → cycle detected
+                return true;
+            }
+        }
+
+        vis[node] = 2; // fully processed
+        return false;
+    }
+}
