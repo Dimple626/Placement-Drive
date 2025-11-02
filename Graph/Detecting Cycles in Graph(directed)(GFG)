@@ -31,8 +31,52 @@ class Solution {
                 return true;
             }
         }
-
         vis[node] = 2; // fully processed
+        return false;
+    }
+}
+
+
+/////////by Dfs approach//////////////
+
+
+class Solution {
+    public boolean isCyclic(int v, int[][] edges) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < v; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        // make the graph directed
+        for (int[] edge : edges) {
+            adj.get(edge[0]).add(edge[1]);
+        }
+        int[] vis=new int[v];
+        int[] pathvis=new int[v];
+        for(int i=0;i<v;i++){
+            if(vis[i]==0){
+                if(dfscheck(i,adj,vis,pathvis)==true){
+                    return true;
+                }
+            }
+        }
+       
+       return false;
+    }
+    private boolean dfscheck(int node,ArrayList<ArrayList<Integer>> adj,int[] vis,
+    int[] pathvis){
+        vis[node]=1;
+        pathvis[node]=1;
+        for(int a:adj.get(node)){
+            if(vis[a]==0){
+                if(dfscheck(a,adj,vis,pathvis)==true){
+                    return true;
+                }
+            }else if(pathvis[a]==1){
+                return true;
+            }
+        }
+        pathvis[node]=0;
         return false;
     }
 }
