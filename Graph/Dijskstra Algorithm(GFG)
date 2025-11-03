@@ -1,0 +1,53 @@
+// https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
+
+import java.util.*;
+
+class Pair {
+    int node, dist;
+    Pair(int node, int dist) {
+        this.node = node;
+        this.dist = dist;
+    }
+}
+
+class Solution {
+    public int[] dijkstra(int V, int[][] edges, int src) {
+        // ✅ Use lightweight adjacency list
+        ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
+        for (int i = 0; i < V; i++) adj.add(new ArrayList<>());
+
+        // ✅ Build adjacency list (undirected graph)
+        for (int[] edge : edges) {
+            int u = edge[0], v = edge[1], w = edge[2];
+            adj.get(u).add(new Pair(v, w));
+            adj.get(v).add(new Pair(u, w)); // only if UNDIRECTED
+        }
+
+        int[] dist = new int[V];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[src] = 0;
+
+        // ✅ Min-heap based on distance
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.dist - b.dist);
+        pq.add(new Pair(src, 0));
+
+        while (!pq.isEmpty()) {
+            Pair curr = pq.poll();
+            int node = curr.node;
+            int currDist = curr.dist;
+
+            if (currDist > dist[node]) continue; // skip outdated entry
+
+            for (Pair it : adj.get(node)) {
+                int adjNode = it.node;
+                int wt = it.dist;
+                if (currDist + wt < dist[adjNode]) {
+                    dist[adjNode] = currDist + wt;
+                    pq.add(new Pair(adjNode, dist[adjNode]));
+                }
+            }
+        }
+
+        return dist;
+    }
+}
