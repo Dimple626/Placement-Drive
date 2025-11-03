@@ -1,0 +1,36 @@
+//https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1?utm_source=chatgpt.com
+
+
+class Solution {
+    public int[] shortestPath(ArrayList<ArrayList<Integer>> adj, int src) {
+        int n = adj.size();
+        int[] dist = new int[n];
+
+        // Initialize all distances to a large value
+        for (int i = 0; i < n; i++) {
+            dist[i] = (int)1e9;
+        }
+
+        Queue<Integer> q = new LinkedList<>();
+        q.add(src);
+        dist[src] = 0;
+
+        while (!q.isEmpty()) {
+            int node = q.poll();
+
+            for (int it : adj.get(node)) {
+                if (dist[node] + 1 < dist[it]) {
+                    dist[it] = dist[node] + 1;
+                    q.add(it);
+                }
+            }
+        }
+
+        // Convert unreachable nodes’ distance to -1
+        for (int i = 0; i < n; i++) {
+            if (dist[i] == (int)1e9) dist[i] = -1;
+        }
+
+        return dist;
+    }
+}
