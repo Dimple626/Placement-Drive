@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Dimple626/Placement-Drive/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
