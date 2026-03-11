@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dimple626/Placement-Drive/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple626/Placement-Drive/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
 ## Matrix
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Dimple626/Placement-Drive/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple626/Placement-Drive/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dimple626/Placement-Drive/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
