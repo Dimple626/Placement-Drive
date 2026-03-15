@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dimple626/Placement-Drive/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
