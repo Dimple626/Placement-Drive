@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Dimple626/Placement-Drive/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
