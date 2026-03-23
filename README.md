@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Dimple626/Placement-Drive/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Dimple626/Placement-Drive/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Dimple626/Placement-Drive/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Dimple626/Placement-Drive/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Dimple626/Placement-Drive/tree/master/1148-article-views-i) |
