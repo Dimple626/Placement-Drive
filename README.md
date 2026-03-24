@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dimple626/Placement-Drive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dimple626/Placement-Drive/tree/master/0025-reverse-nodes-in-k-group) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting
 |  |
 | ------- |
