@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Dimple626/Placement-Drive/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Dimple626/Placement-Drive/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dimple626/Placement-Drive/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
