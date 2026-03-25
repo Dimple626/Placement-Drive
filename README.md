@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dimple626/Placement-Drive/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dimple626/Placement-Drive/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dimple626/Placement-Drive/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dimple626/Placement-Drive/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dimple626/Placement-Drive/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dimple626/Placement-Drive/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dimple626/Placement-Drive/tree/master/3546-equal-sum-grid-partition-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dimple626/Placement-Drive/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
