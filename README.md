@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dimple626/Placement-Drive/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dimple626/Placement-Drive/tree/master/3546-equal-sum-grid-partition-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dimple626/Placement-Drive/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dimple626/Placement-Drive/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
 |  |
 | ------- |
