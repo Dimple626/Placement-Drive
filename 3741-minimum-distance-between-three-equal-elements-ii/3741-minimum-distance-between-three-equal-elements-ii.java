@@ -6,14 +6,14 @@ class Solution {
             map.get(nums[i]).add(i);
         }
         int mindist=Integer.MAX_VALUE;
-        for(List<Integer> list:map.values()){
+         for(List<Integer> list:map.values()){
             if(list.size()<3) continue;
             for(int i=0;i<=list.size()-3;i++){
-                int start=list.get(i);
-                int end=list.get(i+2);
-                int dist=2*(end-start);
-                mindist=Math.min(mindist,dist);
-            }
+            int start=list.get(i);
+            int end=list.get(i+2);
+            int dist=2*(end-start);
+            mindist=Math.min(dist,mindist);
+              }
         }
         return mindist==Integer.MAX_VALUE?-1:mindist;
     }
