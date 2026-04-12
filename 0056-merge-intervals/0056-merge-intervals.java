@@ -1,17 +1,32 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if(intervals.length<=1){
-            return intervals;
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        ArrayList<ArrayList<Integer>> list = new ArrayList<>();
+        for (int[] row : intervals) {
+            ArrayList<Integer> temp = new ArrayList<>();
+            for (int num : row) {
+                temp.add(num);
+            }
+            list.add(temp);
         }
-         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
-        ArrayList<int[]> list=new ArrayList<>();
-        for(int[] interval:intervals){
-            if(list.isEmpty()||list.get(list.size()-1)[1]<interval[0]){
-                list.add(interval);
-            }else{
-                list.get(list.size()-1)[1]=Math.max(list.get(list.size()-1)[1],interval[1]);
+        for (int i = 1; i < list.size(); i++) {
+          if (list.get(i - 1).get(1)  >= list.get(i).get(0)) {
+                    list.get(i - 1).set(0, Math.min(list.get(i).get(0),list.get(i-1).get(0)));
+                   list.get(i - 1).set(1, Math.max(list.get(i).get(1),list.get(i-1).get(1)));
+                list.remove(i);
+                i--;
             }
         }
-return list.toArray(new int[list.size()][]);
+        int n = list.size();
+        int m = list.get(0).size();
+
+        int[][] arr = new int[n][m];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                arr[i][j] = list.get(i).get(j);
+            }
+        }
+      return arr;
     }
 }
