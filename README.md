@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dimple626/Placement-Drive/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Dimple626/Placement-Drive/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dimple626/Placement-Drive/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dimple626/Placement-Drive/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dimple626/Placement-Drive/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dimple626/Placement-Drive/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple626/Placement-Drive/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dimple626/Placement-Drive/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dimple626/Placement-Drive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Dimple626/Placement-Drive/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dimple626/Placement-Drive/tree/master/0125-valid-palindrome) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 ## Enumeration
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
