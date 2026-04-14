@@ -1,25 +1,25 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);
-        List<List<Integer>> comb=new ArrayList<>();
-       generatecomb(0,candidates,new ArrayList(),comb,target);
-       return comb;
-       
+           List<List<Integer>> result=new  ArrayList<>();
+        generatecomb(0,candidates,target,result,new ArrayList<>());
+        return result;
     }
-    void generatecomb(int start,int[] nums,List<Integer> current,List<List<Integer>> comb,int target){
+    private void generatecomb(int idx,int[] candidates,int target,List<List<Integer>> result,List<Integer> current){
         if(target==0){
-            comb.add(new ArrayList(current));
+            result.add(new ArrayList<>(current));
             return;
         }
-        if(target<0){
-            return;
-        }
-        for(int i=start;i<nums.length;i++){
-            if(i>start && nums[i]==nums[i-1]) continue;
-             if (nums[i] > target) break;
-            current.add(nums[i]);
-            generatecomb(i+1,nums,current,comb,target-nums[i]);
+        for(int i=idx;i<candidates.length;i++){
+            if(i>idx && candidates[i]==candidates[i-1]) continue;
+            if(candidates[i]>target){
+                break;
+            }
+            current.add(candidates[i]);
+            generatecomb(i+1,candidates,target-candidates[i],result,current);
             current.remove(current.size()-1);
         }
+     
+     
     }
 }
