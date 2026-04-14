@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dimple626/Placement-Drive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Dimple626/Placement-Drive/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dimple626/Placement-Drive/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Dimple626/Placement-Drive/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dimple626/Placement-Drive/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dimple626/Placement-Drive/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
