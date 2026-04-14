@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dimple626/Placement-Drive/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
