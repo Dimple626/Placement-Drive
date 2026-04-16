@@ -9,25 +9,27 @@ class Solution {
             }
         }
         if(index!=-1){
-        for(int i=n-1;i>=index;i--){
-            if(nums[i]>nums[index]){
-                swap(nums,i,index);
-                break;
+            for(int i=n-1;i>=index;i--){
+                if(nums[i]>nums[index]){
+                    swap(nums,index,i);
+                    break;
+                }
             }
         }
-        }
-        reverse(nums,index+1,n-1);
+reverse(nums,index+1,n-1);
     }
-    private void swap(int[] nums,int i,int j){
-        int temp=nums[j];
-        nums[j]=nums[i];
-        nums[i]=temp;
+    private void swap(int[] arr,int index,int i){
+        int temp=arr[index];
+        arr[index]=arr[i];
+        arr[i]=temp;
     }
-    private void reverse(int[] nums,int left,int right){
-        while(left<=right){
-            swap(nums,left,right);
-            left++;
-            right--;
+    private void reverse(int[]  arr,int i,int j){
+        while(i<j){
+            int temp=arr[i];
+            arr[i]=arr[j];
+            arr[j]=temp;
+            i++;
+            j--;
         }
     }
 }
