@@ -3,32 +3,47 @@ class Solution {
         return mergesort(nums,0,nums.length-1);
     }
     private int mergesort(int[] nums,int left,int right){
+        int cnt=0;
         if(left>=right) return 0;
-        int mid=(left+right)/2;
-        int j=mid+1;
+        int mid=left+(right-left)/2;
+        cnt+=mergesort(nums,left,mid);
+        cnt+=mergesort(nums,mid+1,right);
+        cnt+=countpairs(nums,left,mid,right);
+        merge(nums,left,mid,right);
+        return cnt;
+    }
+    private int countpairs(int[] nums,int left,int mid,int right){
         int count=0;
-        count += mergesort(nums, left, mid);
-        count += mergesort(nums, mid + 1, right);
+        int j=mid+1;
         for(int i=left;i<=mid;i++){
-            while(j<=right && (long)nums[i]>nums[j]*2L){
+            while(j<=right && nums[i]>2L*nums[j]){
                 j++;
             }
-            count += j - (mid + 1);
+             count+=(j-(mid+1));
         }
-        merge(nums,left,mid,right);
         return count;
     }
-    private void merge(int[] nums,int  left,int mid,int right){
-        int[] temp=new int[right-left+1];
-        int i=left,j=mid+1,k=0;
-        while(i<=mid&&j<=right){
-            if(nums[i]>nums[j]) temp[k++]=nums[j++];
-            else temp[k++]=nums[i++];
+    private void merge(int[] nums,int left,int mid,int right){
+        int[] result=new int[right-left+1];
+        int i=left;
+        int j=mid+1;
+        int k=0;
+        int count=0;
+        while(i<=mid && j<=right){
+            if(nums[i]<nums[j]){
+                result[k++]=nums[i++];
+            }else{
+                result[k++]=nums[j++];
+            }
         }
-        while(i<=mid) temp[k++]=nums[i++];
-        while(j<=right) temp[k++]=nums[j++];
-        for (int p = 0; p < temp.length; p++) {
-        nums[left + p] = temp[p];
-    }
+        while(i<=mid){
+            result[k++]=nums[i++];
+        }
+        while(j<=right){
+            result[k++]=nums[j++];
+        }
+        for(int p=0;p<right-left+1;p++){
+            nums[left+p]=result[p];
+        }
     }
 }
