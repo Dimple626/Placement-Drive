@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dimple626/Placement-Drive/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dimple626/Placement-Drive/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -329,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dimple626/Placement-Drive/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
