@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dimple626/Placement-Drive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Dimple626/Placement-Drive/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dimple626/Placement-Drive/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
