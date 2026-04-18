@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dimple626/Placement-Drive/tree/master/2965-find-missing-and-repeated-values) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Dimple626/Placement-Drive/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
