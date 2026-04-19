@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dimple626/Placement-Drive/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dimple626/Placement-Drive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dimple626/Placement-Drive/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dimple626/Placement-Drive/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dimple626/Placement-Drive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dimple626/Placement-Drive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
 | ------- |
