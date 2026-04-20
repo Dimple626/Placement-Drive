@@ -6,9 +6,6 @@ class Solution {
         Stack<Integer> st=new Stack<>();
         int m=nums2.length;
         for(int i=m-1;i>=0;i--){
-            if(st.isEmpty()){
-                nums2[i]=-1;
-            }
             while(!st.isEmpty() && nums2[i]>st.peek()){
                 st.pop();
             }
