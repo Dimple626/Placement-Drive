@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dimple626/Placement-Drive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dimple626/Placement-Drive/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Dimple626/Placement-Drive/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dimple626/Placement-Drive/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dimple626/Placement-Drive/tree/master/2965-find-missing-and-repeated-values) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dimple626/Placement-Drive/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Dimple626/Placement-Drive/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
 | ------- |
