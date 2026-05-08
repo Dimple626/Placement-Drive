@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dimple626/Placement-Drive/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dimple626/Placement-Drive/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dimple626/Placement-Drive/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dimple626/Placement-Drive/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dimple626/Placement-Drive/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Dimple626/Placement-Drive/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple626/Placement-Drive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
