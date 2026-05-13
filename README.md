@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Dimple626/Placement-Drive/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Dimple626/Placement-Drive/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dimple626/Placement-Drive/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dimple626/Placement-Drive/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dimple626/Placement-Drive/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0074-search-a-2d-matrix) |
