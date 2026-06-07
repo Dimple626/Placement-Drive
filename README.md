@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dimple626/Placement-Drive/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dimple626/Placement-Drive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
