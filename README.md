@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Dimple626/Placement-Drive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dimple626/Placement-Drive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Dimple626/Placement-Drive/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dimple626/Placement-Drive/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Dimple626/Placement-Drive/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Dimple626/Placement-Drive/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dimple626/Placement-Drive/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Dimple626/Placement-Drive/tree/master/1009-complement-of-base-10-integer) |
@@ -422,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dimple626/Placement-Drive/tree/master/0796-rotate-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
