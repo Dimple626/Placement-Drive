@@ -7,12 +7,7 @@ class Solution {
             maxi=Math.max(maxi,num);
             mini=Math.min(mini,num);
         }
-        int diff=maxi-mini;
-       while(k>0){
-        sum+=diff;
-        k--;
-       
-        }
-        return sum;
+        return (long)(maxi - mini) * k;
+      
     }
 }
