@@ -18,7 +18,5 @@ class Solution {
                 high--;
             }
         }
-      
-      
     }
 }
