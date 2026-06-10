@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dimple626/Placement-Drive/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Dimple626/Placement-Drive/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Dimple626/Placement-Drive/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Dimple626/Placement-Drive/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0039-combination-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dimple626/Placement-Drive/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Dimple626/Placement-Drive/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dimple626/Placement-Drive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Dimple626/Placement-Drive/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dimple626/Placement-Drive/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Dimple626/Placement-Drive/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dimple626/Placement-Drive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0088-merge-sorted-array) |
