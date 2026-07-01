@@ -194,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
 ## Graph Theory
@@ -333,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
