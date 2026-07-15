@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
@@ -341,12 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dimple626/Placement-Drive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Dimple626/Placement-Drive/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/Dimple626/Placement-Drive/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0237-delete-node-in-a-linked-list) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dimple626/Placement-Drive/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
