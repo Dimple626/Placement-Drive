@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dimple626/Placement-Drive/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Dimple626/Placement-Drive/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Dimple626/Placement-Drive/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Dimple626/Placement-Drive/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
