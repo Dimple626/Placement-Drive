@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dimple626/Placement-Drive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dimple626/Placement-Drive/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dimple626/Placement-Drive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dimple626/Placement-Drive/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
 ## Graph Theory
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dimple626/Placement-Drive/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
