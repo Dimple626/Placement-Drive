@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Dimple626/Placement-Drive/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dimple626/Placement-Drive/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Dimple626/Placement-Drive/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dimple626/Placement-Drive/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
