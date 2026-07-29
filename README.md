@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dimple626/Placement-Drive/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Dimple626/Placement-Drive/tree/master/0788-rotated-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dimple626/Placement-Drive/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
