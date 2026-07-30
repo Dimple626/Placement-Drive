@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dimple626/Placement-Drive/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Dimple626/Placement-Drive/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Dimple626/Placement-Drive/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple626/Placement-Drive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dimple626/Placement-Drive/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Dimple626/Placement-Drive/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Dimple626/Placement-Drive/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dimple626/Placement-Drive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dimple626/Placement-Drive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dimple626/Placement-Drive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 ## String Matching
