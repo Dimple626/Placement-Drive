@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Dimple626/Placement-Drive/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dimple626/Placement-Drive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dimple626/Placement-Drive/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dimple626/Placement-Drive/tree/master/0055-jump-game) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dimple626/Placement-Drive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Dimple626/Placement-Drive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Dimple626/Placement-Drive/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
