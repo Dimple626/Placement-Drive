@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dimple626/Placement-Drive/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0628-maximum-product-of-three-numbers) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dimple626/Placement-Drive/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dimple626/Placement-Drive/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dimple626/Placement-Drive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
