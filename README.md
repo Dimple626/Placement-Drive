@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple626/Placement-Drive/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dimple626/Placement-Drive/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Dimple626/Placement-Drive/tree/master/0733-flood-fill) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dimple626/Placement-Drive/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dimple626/Placement-Drive/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple626/Placement-Drive/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dimple626/Placement-Drive/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Dimple626/Placement-Drive/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dimple626/Placement-Drive/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple626/Placement-Drive/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Dimple626/Placement-Drive/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0540-single-element-in-a-sorted-array) |
