@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dimple626/Placement-Drive/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Dimple626/Placement-Drive/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dimple626/Placement-Drive/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dimple626/Placement-Drive/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dimple626/Placement-Drive/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple626/Placement-Drive/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
