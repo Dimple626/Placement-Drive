@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Dimple626/Placement-Drive/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Dimple626/Placement-Drive/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Dimple626/Placement-Drive/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dimple626/Placement-Drive/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Dimple626/Placement-Drive/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Dimple626/Placement-Drive/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dimple626/Placement-Drive/tree/master/1757-recyclable-and-low-fat-products) |
