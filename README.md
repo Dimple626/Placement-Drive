@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Dimple626/Placement-Drive/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Dimple626/Placement-Drive/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Dimple626/Placement-Drive/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dimple626/Placement-Drive/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Dimple626/Placement-Drive/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Dimple626/Placement-Drive/tree/master/0584-find-customer-referee) |
