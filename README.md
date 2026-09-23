@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dimple626/Placement-Drive/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/Dimple626/Placement-Drive/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dimple626/Placement-Drive/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dimple626/Placement-Drive/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dimple626/Placement-Drive/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dimple626/Placement-Drive/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/Dimple626/Placement-Drive/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dimple626/Placement-Drive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
