@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dimple626/Placement-Drive/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dimple626/Placement-Drive/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Dimple626/Placement-Drive/tree/master/1732-find-the-highest-altitude) |
