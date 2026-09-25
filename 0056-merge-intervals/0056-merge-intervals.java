@@ -18,12 +18,12 @@ class Solution {
             }
         }
         int n = list.size();
-        int m = list.get(0).size();
+        
 
-        int[][] arr = new int[n][m];
+        int[][] arr = new int[n][2];
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j < 2; j++) {
                 arr[i][j] = list.get(i).get(j);
             }
         }
