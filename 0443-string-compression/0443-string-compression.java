@@ -17,9 +17,6 @@ class Solution {
             }
         }
     }
-        return index;
-    
-    
-      
+        return index; 
     }
 }
