@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dimple626/Placement-Drive/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dimple626/Placement-Drive/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0746-min-cost-climbing-stairs) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Dimple626/Placement-Drive/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Dimple626/Placement-Drive/tree/master/1768-merge-strings-alternately) |
