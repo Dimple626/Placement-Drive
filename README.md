@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Dimple626/Placement-Drive/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dimple626/Placement-Drive/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dimple626/Placement-Drive/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dimple626/Placement-Drive/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dimple626/Placement-Drive/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dimple626/Placement-Drive/tree/master/2965-find-missing-and-repeated-values) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dimple626/Placement-Drive/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dimple626/Placement-Drive/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dimple626/Placement-Drive/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dimple626/Placement-Drive/tree/master/3090-maximum-length-substring-with-two-occurrences) |
