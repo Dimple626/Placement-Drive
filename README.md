@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dimple626/Placement-Drive/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dimple626/Placement-Drive/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dimple626/Placement-Drive/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Dimple626/Placement-Drive/tree/master/1732-find-the-highest-altitude) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Dimple626/Placement-Drive/tree/master/0788-rotated-digits) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dimple626/Placement-Drive/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dimple626/Placement-Drive/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Dimple626/Placement-Drive/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dimple626/Placement-Drive/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dimple626/Placement-Drive/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dimple626/Placement-Drive/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dimple626/Placement-Drive/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dimple626/Placement-Drive/tree/master/3364-minimum-positive-sum-subarray) |
