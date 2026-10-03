@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dimple626/Placement-Drive/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dimple626/Placement-Drive/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dimple626/Placement-Drive/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dimple626/Placement-Drive/tree/master/0207-course-schedule) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dimple626/Placement-Drive/tree/master/0199-binary-tree-right-side-view) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dimple626/Placement-Drive/tree/master/0199-binary-tree-right-side-view) |
