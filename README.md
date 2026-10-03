@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dimple626/Placement-Drive/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dimple626/Placement-Drive/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dimple626/Placement-Drive/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dimple626/Placement-Drive/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dimple626/Placement-Drive/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Database
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dimple626/Placement-Drive/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dimple626/Placement-Drive/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
 |  |
