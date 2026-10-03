@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dimple626/Placement-Drive/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dimple626/Placement-Drive/tree/master/1657-determine-if-two-strings-are-close) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Dimple626/Placement-Drive/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dimple626/Placement-Drive/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dimple626/Placement-Drive/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Dimple626/Placement-Drive/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dimple626/Placement-Drive/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Dimple626/Placement-Drive/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dimple626/Placement-Drive/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dimple626/Placement-Drive/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dimple626/Placement-Drive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dimple626/Placement-Drive/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dimple626/Placement-Drive/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dimple626/Placement-Drive/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple626/Placement-Drive/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dimple626/Placement-Drive/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dimple626/Placement-Drive/tree/master/1657-determine-if-two-strings-are-close) |
 | [2833-furthest-point-from-origin](https://github.com/Dimple626/Placement-Drive/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
