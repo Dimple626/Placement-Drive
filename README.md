@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dimple626/Placement-Drive/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Dimple626/Placement-Drive/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Dimple626/Placement-Drive/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dimple626/Placement-Drive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dimple626/Placement-Drive/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dimple626/Placement-Drive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dimple626/Placement-Drive/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Dimple626/Placement-Drive/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Dimple626/Placement-Drive/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dimple626/Placement-Drive/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dimple626/Placement-Drive/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Dimple626/Placement-Drive/tree/master/0260-single-number-iii) |
