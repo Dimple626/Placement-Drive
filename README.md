@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dimple626/Placement-Drive/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dimple626/Placement-Drive/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dimple626/Placement-Drive/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Dimple626/Placement-Drive/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Dimple626/Placement-Drive/tree/master/0493-reverse-pairs) |
@@ -781,4 +782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dimple626/Placement-Drive/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
