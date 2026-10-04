@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dimple626/Placement-Drive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dimple626/Placement-Drive/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Dimple626/Placement-Drive/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Dimple626/Placement-Drive/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dimple626/Placement-Drive/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dimple626/Placement-Drive/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Dimple626/Placement-Drive/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Dimple626/Placement-Drive/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dimple626/Placement-Drive/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Dimple626/Placement-Drive/tree/master/0788-rotated-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dimple626/Placement-Drive/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Dimple626/Placement-Drive/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dimple626/Placement-Drive/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dimple626/Placement-Drive/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dimple626/Placement-Drive/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dimple626/Placement-Drive/tree/master/3689-maximum-total-subarray-value-i) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dimple626/Placement-Drive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dimple626/Placement-Drive/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dimple626/Placement-Drive/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
