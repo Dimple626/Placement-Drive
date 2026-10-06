@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Dimple626/Placement-Drive/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dimple626/Placement-Drive/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dimple626/Placement-Drive/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dimple626/Placement-Drive/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dimple626/Placement-Drive/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Dimple626/Placement-Drive/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dimple626/Placement-Drive/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dimple626/Placement-Drive/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dimple626/Placement-Drive/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dimple626/Placement-Drive/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dimple626/Placement-Drive/tree/master/3689-maximum-total-subarray-value-i) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Dimple626/Placement-Drive/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dimple626/Placement-Drive/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dimple626/Placement-Drive/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dimple626/Placement-Drive/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Dimple626/Placement-Drive/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dimple626/Placement-Drive/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dimple626/Placement-Drive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
