@@ -1,12 +1,9 @@
-
 class Solution {
     public int maxLevelSum(TreeNode root) {
           if(root==null) return 0;
         int maxi=root.val; 
         int index=0;   
         Queue<TreeNode> q=new LinkedList<>();
-      
-      
         int k=1;
         q.add(root);   
         while(!q.isEmpty()){
@@ -23,8 +20,6 @@ class Solution {
                 maxi=sum;
                 k=index;
             }
-          
-          
         } 
         return k;
     }
