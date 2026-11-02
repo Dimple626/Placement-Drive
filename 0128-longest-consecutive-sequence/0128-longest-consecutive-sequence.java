@@ -1,38 +1,26 @@
-import java.util.*;
+
 
 class Solution {
     public int longestConsecutive(int[] nums) {
-        int longestLength = 0;
-        Map<Integer, Boolean> map = new HashMap<>();
+        if(nums.length==0) return 0;
+        
+        Arrays.sort(nums);
+        int n=nums.length;
+        int maxi=1;
+        int cnt=1;
 
-        for (int num : nums) {
-            map.put(num, false); // Mark all numbers unvisited initially
-        }
-
-        for (int num : nums) {
-            if (map.get(num)) continue; // Skip already visited numbers
-
-            map.put(num, true); // Mark current number as visited
-            int currentLength = 1;
-
-            int nextNum = num + 1;
-            while (map.containsKey(nextNum) && !map.get(nextNum)) {
-                map.put(nextNum, true);
-                currentLength++;
-                nextNum++;
+        for(int i=1;i<n;i++){
+            if(nums[i]==nums[i-1]){
+                continue;
             }
-
-            int prevNum = num - 1;
-            while (map.containsKey(prevNum) && !map.get(prevNum)) {
-                map.put(prevNum, true); // ✅ Corrected from nextNum to prevNum
-                currentLength++;
-                prevNum--;
+            else if(nums[i]==nums[i-1]+1){
+                cnt++;
             }
-
-            longestLength = Math.max(longestLength, currentLength);
+            else{
+                cnt=1;
+            }
+            maxi=Math.max(maxi,cnt);
         }
-
-        return longestLength;
+        return maxi;
     }
 }
-
