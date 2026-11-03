@@ -1,11 +1,18 @@
+
+
 class Solution {
     public int minMoves(int[] nums) {
-        int moves=0;
-        Arrays.sort(nums);
-        int mid=nums[nums.length-1];
-        for(int num:nums){
-            moves+=Math.abs(mid-num);
+        int moves = 0;
+        int max = nums[0];
+
+        for(int num : nums){
+            max = Math.max(max, num);
         }
+
+        for(int num : nums){
+            moves += max - num;
+        }
+
         return moves;
     }
 }
